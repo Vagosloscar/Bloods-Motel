@@ -1,11 +1,11 @@
 # Bloods-Motel
 pour installer :
 - git clone https://github.com/Vagosloscar/Bloods-Motel.git
-- start la ressource
+- start la ressource dans votre cfg
 
-for installation :
+for instal :
 - git clone https://github.com/Vagosloscar/Bloods-Motel.git
-- start resources
+- start resources in your server.cfg
 
 
 Bloods Motel [MLO]  fonctionnel et utilisable/modifiable a votre guise
